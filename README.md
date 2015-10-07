@@ -1,3 +1,3 @@
 # stuff
-different text files
-like apparmor
+different configuration files
+-- added apparmor config for skype
