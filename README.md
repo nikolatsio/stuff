@@ -12,3 +12,6 @@ sudo perl -pi -e 's,GRUB_CMDLINE_LINUX="(.*)"$,GRUB_CMDLINE_LINUX="$1 apparmor=1
 sudo update-grub
 
  sudo reboot
+
+
+proba 01
